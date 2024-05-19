@@ -321,7 +321,7 @@ body.modal-active {
   text-align: center;
   padding: 10px 15px;
   margin: 10px;
-  background: red;
+  background: rgb(73, 240, 176);
   font-size: 18px;
   background-color: #efefef;
   border-radius: 3px;
