@@ -139,7 +139,7 @@ body.modal-active {
 }
 
 #modal-container.five .modal-background {
-  background: rgba(0, 0, 0, 0);
+  background: rgba(5, 86, 41, 0);
   animation: fadeIn 0.5s cubic-bezier(0.165, 0.84, 0.44, 1) forwards;
 }
 
@@ -165,7 +165,7 @@ body.modal-active {
 }
 
 #modal-container.six .modal-background {
-  background: rgba(0, 0, 0, 0);
+  background: rgba(1, 62, 39, 0);
   animation: fadeIn 0.5s cubic-bezier(0.165, 0.84, 0.44, 1) forwards;
 }
 
@@ -331,7 +331,7 @@ body.modal-active {
 
 .content .buttons .button:hover {
   color: white;
-  background: #009bd5;
+  background: #69fbb0;
 }
 
 @keyframes unfoldIn {
